@@ -37,8 +37,8 @@ body {
 
 .resume {
     margin: 50px auto;
-    border: 1px solid #f5f5f5;
-    box-shadow: 1px 1px 7px 7px #f5f5f5;
+    background-color: hsla(0, 0%, 100%, 0.281);
+    border-radius: 55px;
     padding: 30px 0;
     max-width: 900px;
 }
@@ -286,3 +286,11 @@ body {
 inset 5px 5px 15px 5px rgba(0,0,0,0);
 transition: 0.5s;
 }
+
+body {
+    background: url(assets/skyBack.jpg) no-repeat center center;
+    background-size: cover;
+    margin: 0 px;
+    padding: 0 px;
+  }
+
