@@ -45,7 +45,7 @@ body {
 
 .resume__block {
     border-bottom: 3px solid var(--border-color);
-    padding-bottom: 30px;
+    padding-bottom: 15px;
     margin-bottom: 15px;
 }
 
@@ -268,3 +268,10 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+/* FOOTER */
+
+.text-center {
+    text-align: center!important;
+}
+
